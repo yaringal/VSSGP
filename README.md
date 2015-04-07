@@ -1,7 +1,7 @@
 Variational Sparse Spectrum Gaussian Process toolkit (VSSGP)
 ====
 
-This is the implementaion of the inference developed in "[Variational Inference for Sparse Spectrum Approximation in Gaussian Process Regression](http://mlg.eng.cam.ac.uk/yarin/publications.html#Gal2015Variational)". Please see the paper for further details.
+This is the implementaion of the inference developed in "[Improving the Gaussian Process Sparse Spectrum Approximation by Representing Uncertainty in Frequency Inputs](http://mlg.eng.cam.ac.uk/yarin/publications.html#Gal2015Improving)". Please see the paper for further details.
 
 This code assumes that the Theano repository was cloned in the parent folder. To clone the repo, run:
 ```
